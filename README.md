@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Víctor</h1>
 <h3>Software Engineering student and Frontend developer with React</h3>
 
-💻 I’m currently working on **Study4**
+💻 I’m currently working on **Study4** and **Pillo**
 
 
 <h3 align="left">I usually code with</h3>
