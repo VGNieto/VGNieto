@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Víctor</h1>
 <h3>Software Engineering student and Frontend developer with React</h3>
 
-💻 I’m currently working on nutritionist app 
+💻 I’m currently working on nutritionist and dietitian app https://nutriolift.com
 
 
 <h3 align="left">I usually code with</h3>
